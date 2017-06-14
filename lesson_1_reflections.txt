@@ -8,7 +8,7 @@ Why do you think some version control systems, like Git, allow saving multiple f
 Ans: Git is more programming oriented therefore recognizes that some files are related
 
 How can you use the commands git log and git diff to view the history of files?
-Ans: by using dem na
+Ans: by using dem nah
 
 How might using version control make you more confident to make changes that could break something?
 Ans: cos i can check old versions out
