@@ -3,3 +3,15 @@ Ans: it creates a git respository.
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Ans: Intermediate world
+
+How can you use the staging area to make sure you have one commit per logical change?
+Ans:  i hv no idea
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Ans: wheni need to create a different version of the same file
+
+How do the diagrams help you visualize the branch structure?
+Ans: by know exactly which branch is reachable
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do
+Ans: visual reprsentation
